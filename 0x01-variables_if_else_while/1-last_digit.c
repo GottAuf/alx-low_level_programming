@@ -4,7 +4,7 @@
 
 
 /**
- * main - prints the last digit of an integer and checks whether it between 0 and 6
+ * main - prints the last digit of an integer
  * Return: 0
  */
 int main(void)
