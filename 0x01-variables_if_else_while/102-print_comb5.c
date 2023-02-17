@@ -9,7 +9,7 @@ int main(void)
 	int x;
 	int z;
 
-	x=0;
+	x = 0;
 	while (x < 99)
 	{
 		z = x + 1;
