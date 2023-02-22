@@ -2,7 +2,9 @@
 
 /**
  * add - add two integers
- * Return sum
+ * @a: 1st integer
+ * @b: 2nd integer
+ * Return: sum
  */
 int add(int a, int b)
 {
