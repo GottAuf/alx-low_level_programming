@@ -8,7 +8,7 @@
  */
 char *cap_string(char *str)
 {
-	int a = 0; 
+	int a = 0;
 	int b;
 	char chr[] = {32, 44, 46, '\t', '\n', ';', '!', '(', ')', '?', '"', '{', '}'};
 
