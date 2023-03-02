@@ -4,8 +4,8 @@
  * string_toupper - change lowercase to uppercase
  * @str: string to modify
  *
- * Return: char
- * */
+ * Return: char str
+ */
 char *string_toupper(char *str)
 {
 	int a = 0;
