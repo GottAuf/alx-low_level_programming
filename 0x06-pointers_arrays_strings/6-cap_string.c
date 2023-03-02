@@ -14,7 +14,7 @@ char *cap_string(char *str)
 
 	while (str[a])
 	{
-		b =0;
+		b = 0;
 
 		while (b < 13)
 		{
